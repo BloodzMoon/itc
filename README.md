@@ -1,5 +1,5 @@
 # Introduction to computer
-> KMITL 2019
+> KMITL 2018
 
 
 ## About this
